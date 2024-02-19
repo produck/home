@@ -3,21 +3,21 @@
 layout: home
 
 hero:
-  name: "Produck Team"
-  text: "For better JavaScript"
-  tagline: Creating more reliable, useful and simple things
+  name: "Produck 工作台"
+  text: "为了更好的JavaScript"
+  tagline: 创造更多可靠、实用、简便的模块以持续改善生产体验
   actions:
     - theme: brand
-      text: All Products
+      text: 所有产品
       link: /markdown-examples
     - theme: alt
-      text: About Us
+      text: 关于我们
       link: /api-examples
 
 features:
   - title: "@produck/idiom"
     icon: 🤖
-    details: "Some frequently-used program expressions / functions."
+    details: 一些被高频使用的程序表达式/函数
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
