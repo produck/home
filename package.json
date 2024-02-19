@@ -12,6 +12,7 @@
   "author": "ChaosLee",
   "license": "MIT",
   "devDependencies": {
+    "@vercel/analytics": "^1.2.1",
     "vitepress": "^1.0.0-rc.44"
   }
 }
