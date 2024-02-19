@@ -9,6 +9,9 @@ export default defineConfig({
 	description: "For better JavaScript",
 	cleanUrls: true,
 	lastUpdated: true,
+  sitemap: {
+    hostname: 'https://produckjs.com'
+  },
 
 	head: [
 		['link', { rel: 'icon', href: '/favicon.ico' }]
