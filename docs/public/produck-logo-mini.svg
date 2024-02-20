@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+	width="226.77164"
+	height="226.77148"
+	viewBox="0 0 59.999994 59.999955"
+	version="1.1"
+	id="svg5"
+	xml:space="preserve"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2"><linearGradient
+       id="linearGradient66054"><stop
+         style="stop-color:#00ff6f;stop-opacity:1;"
+         offset="0"
+         id="stop66794" /><stop
+         style="stop-color:#002904;stop-opacity:1;"
+         offset="1"
+         id="stop66792" /></linearGradient><linearGradient
+       id="linearGradient66054-1"><stop
+         style="stop-color:#00335c;stop-opacity:1;"
+         offset="0"
+         id="stop66050" /><stop
+         style="stop-color:#00ff2d;stop-opacity:1;"
+         offset="1"
+         id="stop66052" /></linearGradient><linearGradient
+       xlink:href="#linearGradient66054-1"
+       id="linearGradient66048"
+       x1="0"
+       y1="15"
+       x2="43.30127"
+       y2="40"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" /><linearGradient
+       xlink:href="#linearGradient66054"
+       id="linearGradient66056"
+       x1="0"
+       y1="15"
+       x2="51.961525"
+       y2="45"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer1"
+     transform="translate(4.0190001)"><g
+       id="bottom"><path
+         id="path3166"
+         style="fill:url(#linearGradient66056);fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:0.79375, 0.79375"
+         d="m 0,15.000118 v 29.999719 l 8.6604533,5.000212 V 19.999813 Z m 51.961686,0 -8.660453,4.999695 v 20.000329 l -17.32039,9.999907 v 9.999906 L 51.961686,44.999837 Z m -38.971264,7.499801 v 30.000236 l 8.660453,4.999694 V 27.50013 Z m 25.980843,0 -8.660454,5.000211 v 0.04961 4.950085 l -4.329968,2.500106 v 9.999906 l 12.990422,-7.4998 z" /><path
+         id="top"
+         style="mix-blend-mode:normal;fill:url(#linearGradient66048);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-dasharray:0.79375, 0.79375"
+         d="M 25.980843,0 0,15.000118 8.6604533,19.999813 25.980843,9.9999064 l 17.32039,9.9999066 8.660453,-4.999695 z m 0,15.000118 -12.990421,7.499801 8.707478,5.0276 4.282943,-2.527495 4.329968,2.500106 8.660454,-5.000211 z" /></g></g></svg>

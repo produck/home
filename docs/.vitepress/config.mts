@@ -9,12 +9,13 @@ export default defineConfig({
 	description: "For better JavaScript",
 	cleanUrls: true,
 	lastUpdated: true,
-  sitemap: {
-    hostname: 'https://produckjs.com'
-  },
+	sitemap: {
+		hostname: 'https://produckjs.com'
+	},
 
 	head: [
-		['link', { rel: 'icon', href: '/favicon.ico' }]
+		['link', { rel: 'icon', type: 'image/svg+xml', href: '/produck-logo-mini.svg' }],
+		['link', { rel: 'icon', type: 'image/png', href: '/produck-logo-mini.png' }],
 	],
 
 	themeConfig: {
