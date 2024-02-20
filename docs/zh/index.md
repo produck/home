@@ -6,6 +6,9 @@ hero:
   name: "Produck 工作台"
   text: "为了更好的JavaScript"
   tagline: 创造更多可靠、实用、简便的模块以持续改善生产体验
+  image:
+    src: /logo-large.svg
+    alt: Produck
   actions:
     - theme: brand
       text: 所有产品

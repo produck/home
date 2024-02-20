@@ -6,6 +6,9 @@ hero:
   name: "Produck Team"
   text: "For better JavaScript"
   tagline: Creating more reliable, useful and simple things
+  image:
+    src: /logo-large.svg
+    alt: Produck
   actions:
     - theme: brand
       text: All Products

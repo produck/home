@@ -21,3 +21,5 @@ import { injectSpeedInsights } from '@vercel/speed-insights';
 
 inject();
 injectSpeedInsights();
+
+import './custom.css';
