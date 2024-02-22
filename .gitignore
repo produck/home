@@ -132,3 +132,7 @@ dist
 # Vitepress
 docs/.vitepress/Diagnostic
 docs/.vitepress/cache
+
+# Always ignore
+*.ign*
+*.gen*
