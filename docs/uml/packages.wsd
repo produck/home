@@ -1,0 +1,42 @@
+@startuml
+package "@produck/ow" as Ow {}
+
+package Modules {
+	package "@produck/mold" as Mold {}
+	package "@produck/compose" as Compose {}
+	package "@produck/sack" as Sack {}
+	package "@produck/kit" as Kit {}
+	package "@produck/workspace" as Workspace {}
+
+	package "@produck/idiom" as Idiom {}
+	package "@produck/quack" as Quack {}
+
+	package "@produck/duck" as Duck {}
+	package "@produck/duck-workspace" as DuckWorkspace {}
+	package "@produck/duck-log" as DuckLog {}
+	package "@produck/duck-web" as DuckWeb {}
+	package "@produck/duck-runner" as DuckRunner {}
+
+	package "@produck/duck-workbench" as DuckWorkbench {}
+
+	Compose <-- Duck
+	Compose <-- Sack
+
+	Mold <-up- Duck
+	Mold <-- DuckLog
+	Mold <-- DuckWeb
+	Mold <-- DuckRunner
+
+	Kit <-- Duck
+
+	Workspace <-- DuckWorkspace
+
+	Duck <-- DuckLog
+	Duck <-- DuckWeb
+	Duck <-- DuckRunner
+	Duck <-left- DuckWorkspace
+}
+
+Ow <.. Modules
+
+@enduml
